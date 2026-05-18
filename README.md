@@ -1,7 +1,7 @@
 <H3>Name: VINODHINI K </H3>
 <H3>Register No. 212223230245 </H3>
 <H3>Experiment 2</H3>
-<H3>Date:18/05/25</H3>
+<H3>Date:18/05/26</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
